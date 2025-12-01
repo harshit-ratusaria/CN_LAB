@@ -11,3 +11,7 @@ Assignment2: Write a program using TCP socket to implement the following: i. Ser
 ![cn_ass-2A](/assignment2/cn_ass-2A.png)
 ![cn_ass2-B](assignment2/cn_ass2-B.png)
 ![cn_ass2-C](assignment2/cn_ass2-C.png)
+
+Assignment 3: Same as Assignment 2 using UDP socket. .
+![cn_ass3-A](/assignment3/cn_ass3-A.png)
+![cn_ass3-B](assignment3/cn_ass3-B.png)
