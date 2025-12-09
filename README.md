@@ -33,12 +33,12 @@ L1 header
 
 L2 headers
 
-![cn_ass3-A](/assignment4/cn_ass4-D.png)
+![cn_ass3-A](/assignment4/Cn_ass4-D.png)
 
 L3 headers
 
-![cn_ass3-A](/assignment4/cn_ass4-E.png)
+![cn_ass3-A](/assignment4/CN_ass4-E.png)
 
 L4 Headers
 
-![cn_ass3-A](/assignment3/cn_ass4-F.png)
+![cn_ass3-A](/assignment4/Cn_ass4-F.png)
