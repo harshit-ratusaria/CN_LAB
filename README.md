@@ -17,4 +17,28 @@ Assignment 3: Same as Assignment 2 using UDP socket. .
 ![cn_ass3-A](/assignment3/cn_ass3-A.png)
 ![cn_ass3-B](assignment3/cn_ass3-B.png)
 
-![cn_ass3-A](/assignment 4/cn lab ass4-A.png)
+Assignment 4: Install wireshark in a VM (Virtual Machine) environment. Draw a time diagram to show the steps in the protocols recorded in the captured file (saved in the .pcap file of wireshark) during a PING operation. List the L2, L3, L4 header fields that can be extracted from the .pcap file.
+
+Capture ICMP
+
+![cn_ass3-A](/assignment4/cn_ass4-A.png)
+
+Time diagram using flow graph
+
+![cn_ass3-A](/assignment4/cn_ass4-B.png)
+
+L1 header
+
+![cn_ass3-A](/assignment4/cn_ass4-C.png)
+
+L2 headers
+
+![cn_ass3-A](/assignment4/cn_ass4-D.png)
+
+L3 headers
+
+![cn_ass3-A](/assignment4/cn_ass4-E.png)
+
+L4 Headers
+
+![cn_ass3-A](/assignment3/cn_ass4-F.png)
