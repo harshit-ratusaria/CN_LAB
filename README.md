@@ -42,3 +42,16 @@ L3 headers
 L4 Headers
 
 ![cn_ass3-A](/assignment4/Cn_ass4-F.png)
+
+Assignment 5: Learn and use maximum number of packet generation tools. Steps/ Hints: Install Iperf, D-ITG etc. and send traffic among mininet hosts. . Output for IPERF (TCP)
+
+![cn_ass3-A](/assignment4/cn_ass5-A.png)
+
+IPERF UDP
+
+![cn_ass3-A](/assignment4/cn_ass5-B.png)
+
+ITGSend
+
+![cn_ass3-A](/assignment4/cn_ass5-C.png)
+
