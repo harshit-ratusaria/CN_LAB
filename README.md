@@ -60,3 +60,7 @@ Assignment6: Develop a simple C based network simulator to analyze TCP traffic. 
 ![cn_ass3-A](/assignment6/cn_ass6-A.png)
 ![cn_ass3-A](/assignment6/cn_ass6-C.png)
 
+Assignment 7: Write UDP client server socket program where client sends one/two number(s)(integer or floating point) to server and a scientific calculator operation (like sin,cos,*,/, inv etc.) and server responds with the result after evaluating the value of operation as sent by the client. Server will maintain a scientific calculator. Detect in the mininet hosts with wireshark if there is any packet loss. .
+
+![cn_ass3-A](/assignment7/cn_ass7-A.png)
+![cn_ass3-A](/assignment7/cn_ass7-B.png)
