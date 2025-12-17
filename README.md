@@ -55,3 +55,8 @@ ITGSend
 
 ![cn_ass3-A](/assignment5/cn_ass5-C.png)
 
+Assignment6: Develop a simple C based network simulator to analyze TCP traffic. Steps/ Hints: 1. Use TCP/IP based C libraries including socket to listen to the incoming packets at the Ethernet port. 2. Extract header and data of the incoming packets.
+
+![cn_ass3-A](/assignment6/cn_ass6-A.png)
+![cn_ass3-A](/assignment6/cn_ass6-B.png)
+
