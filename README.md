@@ -64,3 +64,12 @@ Assignment 7: Write UDP client server socket program where client sends one/two 
 
 ![cn_ass3-A](/assignment7/cn_ass7-A.png)
 ![cn_ass3-A](/assignment7/cn_ass7-B.png)
+
+Assignment 8: Write a program in C using thread library and TCP sockets to build a chat server which enable clients communicating to each other through the chat server. Message logs must be maintained in the server in a text file. Each client will see the conversations in real time. Clients must handled by a server thread. (Keep it like a group chatbox) .
+
+![cn_ass3-A](/assignment8/ass8-A.png)
+
+![cn_ass3-A](/assignment8/ass8-B.png)
+![cn_ass3-A](/assignment8/ass8-C.png)
+
+![cn_ass3-A](/assignment8/ass8-D.png)
