@@ -93,3 +93,6 @@ Assignment 11: Write a RAW socket program to generate TCP SYN flood based DDoS a
 
 ![cn_ass3-A](/assignment11/cn_ass11.png)
 ![cn_ass3-A](/assignment11/cn_ass11B.png)
+
+Assignment 12: Same as Assignment 10 with ICMP packets using RAW sockets 
+![cn_ass3-A](/assignment12/cn_ass12.png)
