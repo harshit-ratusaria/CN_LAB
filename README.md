@@ -73,3 +73,8 @@ Assignment 8: Write a program in C using thread library and TCP sockets to build
 ![cn_ass3-A](/assignment8/ass8-C.png)
 
 ![cn_ass3-A](/assignment8/ass8-D.png)
+
+Assignment 9: Write a client server socket program in TCP for uploading and downloading files between two different hosts. Also calculate the transfer time in both the cases. .
+
+![cn_ass3-A](/assignment9/cn_ass-9A.png)
+![cn_ass3-A](/assignment9/cn_ass-9B.png)
