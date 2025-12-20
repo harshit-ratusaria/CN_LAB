@@ -88,3 +88,8 @@ Output(ii):
 
 ![cn_ass3-A](/assignment10/cn_ass10-C.png)
 ![cn_ass3-A](/assignment10/cn_ass10-D.png)
+
+Assignment 11: Write a RAW socket program to generate TCP SYN flood based DDoS attack towards an IP address. Take four mininet hosts as agent devices. .
+
+![cn_ass3-A](/assignment11/cn_ass11.png)
+![cn_ass3-A](/assignment11/cn_ass11B.png)
