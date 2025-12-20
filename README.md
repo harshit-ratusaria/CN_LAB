@@ -101,3 +101,7 @@ Assignment 13: Create a binary tree topology with 7 switches in mininet. Capture
 
 ![cn_ass3-A](/assignment13/cn_ass13-A.png)
 ![cn_ass3-A](/assignment13/cn_ass13-B.png)
+
+Assignment 14: Create a custom leaf-spine topology in mininet using python which can be scaled with increasing switch radix. .
+
+![cn_ass3-A](/assignment14/cn_ass14.png)
