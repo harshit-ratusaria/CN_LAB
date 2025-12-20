@@ -78,3 +78,13 @@ Assignment 9: Write a client server socket program in TCP for uploading and down
 
 ![cn_ass3-A](/assignment9/cn_ass-9A.png)
 ![cn_ass3-A](/assignment9/cn_ass-9B.png)
+
+Assignment 10: Write two C programs using raw socket to send i. TCP packet where TCP payload will contain your roll number. ii. ICMP time stamp messages towards a target IP . Output (i):
+
+![cn_ass3-A](/assignment10/cn_ass10-A.png)
+![cn_ass3-A](/assignment10/cn_ass10-B.png)
+
+Output(ii):
+
+![cn_ass3-A](/assignment10/cn_ass10-C.png)
+![cn_ass3-A](/assignment10/cn_ass10-D.png)
